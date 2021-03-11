@@ -3,7 +3,7 @@
 I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 
 - 💻 I’m currently working on projects in AI, Android, iOS fields
-- 🌱 I’m currently learning Kotlin, Swift, Flutter 
+- 🌱 I’m currently learning React Native, Kotlin, Swift, Flutter 
 - 💬 Ask me about everything you liked, I'm glad to be able to help
 - 👯 I’m looking to collaborate on international companies
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/morteza-nedaei)
@@ -30,6 +30,7 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
