@@ -21,7 +21,7 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MortezaNedaei&theme=chartreuse-dark" alt="MortezaNedaei" /></p>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/MortezaNedaei"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaNedaei&layout=compact&theme=chartreuse-dark"></a>
 </p>
 
@@ -38,8 +38,6 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 <a href="https://telegram.me/MortezaNedaei" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
 <a href="mailto:nedaei1375@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MortezaNedaei&label=Profile%20views&style=flat" alt="minatafreshi" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
