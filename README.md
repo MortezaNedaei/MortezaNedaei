@@ -18,7 +18,7 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MortezaNedaei" alt="MortezaNedaei" /></a> </p>
 
 <img alt="Morteza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MortezaNedaei&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MortezaNedaei&theme=chartreuse-dark" alt="MortezaNedaei" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MortezaNedaei&theme=chartreuse-dark" alt="MortezaNedaei" /></p>
 </p>
 
 <p align="center">
