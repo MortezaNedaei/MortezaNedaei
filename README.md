@@ -10,14 +10,21 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 - ⚡ Fun fact: "The best line of code is the one you don't write"!
 
 
-## Github Summery
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MortezaNedaei&label=Profile%20views&style=flat" alt="minatafreshi" /> </p>
+## 📈 Github Summery
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MortezaNedaei&label=Profile%20views&style=flat" alt="MortezaNedaei" /> </p>
+
+![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MortezaNedaei" alt="MortezaNedaei" /></a> </p>
 
 <img alt="Morteza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MortezaNedaei&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MortezaNedaei&theme=chartreuse-dark" alt="MortezaNedaei" /></p>
 </p>
+
+<p align="center">
+  <a href="https://github.com/MortezaNedaei"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaNedaei&layout=compact&theme=chartreuse-dark"></a>
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -47,16 +54,6 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-
-
-
-
-### 📈 My GitHub Stats:
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MortezaNedaei&show_icons=true&theme=gotham)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaNedaei&theme=gotham)
-
-![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 
 <!--
 **MortezaNedaei/MortezaNedaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
