@@ -22,7 +22,7 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 <a href="mailto:nedaei1375@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minatafreshi&label=Profile%20views&style=flat" alt="minatafreshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MortezaNedaei&label=Profile%20views&style=flat" alt="minatafreshi" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
