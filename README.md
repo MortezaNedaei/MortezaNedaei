@@ -10,6 +10,16 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 - ⚡ Fun fact: "The best line of code is the one you don't write"!
 
 
+## Github Summery
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MortezaNedaei&label=Profile%20views&style=flat" alt="minatafreshi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MortezaNedaei" alt="MortezaNedaei" /></a> </p>
+
+<img alt="Morteza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MortezaNedaei&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MortezaNedaei&theme=chartreuse-dark" alt="MortezaNedaei" /></p>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
