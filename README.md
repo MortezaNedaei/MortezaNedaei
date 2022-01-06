@@ -2,16 +2,38 @@
 
 I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
 
+## About
+Experienced Android Developer with a demonstrated history of working in the information technology and services industry. Skilled in Kotlin, Java, Android Development, and have Experience in Swift, iOS, React Native, Flutter Development. Strong engineering professional with a Master's degree focused in AI Engineering.
+
 - 💻 I’m currently working on projects in AI, Android, iOS fields
-- 🌱 I’m currently learning React Native, Kotlin, Swift, Flutter 
+- 🌱 I’m currently learning GoLang, NodeJs, React Native, Kotlin, Swift, Flutter 
 - 💬 Ask me about everything you liked, I'm glad to be able to help
 - 👯 I’m looking to collaborate on international companies
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/morteza-nedaei)
 - ⚡ Fun fact: "The best line of code is the one you don't write"!
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/morteza-nedaei" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="morteza-nedaei" height="40" width="120" /></a>
+<a href="https://stackoverflow.com/users/12900836/morteza-nedaei?tab=profile" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="12900836" height="40" width="120" /></a>
+<a href="https://medium.com/@nedaei1375" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nedaei1375" height="40" width="120" /></a>
+<a href="https://twitter.com/MortezaNedaei" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
+<a href="https://discordapp.com/users/MortezaNedaei#6645" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
+<a href="https://telegram.me/MortezaNedaei" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
+<a href="mailto:nedaei1375@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
+</p>
+
 ## 📈 Github Summery
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MortezaNedaei&label=Profile%20views&style=flat" alt="MortezaNedaei" /> </p>
+
+<p align="left">
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=MortezaNedaei&style=flat-square&color=119721">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MortezaNedaei?style=flat-square&color=fb5050">
+<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-pink">
+<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-1abedb.svg?style=flat&logo=github">
+</p>
+
+[![GitHub release](https://img.shields.io/github/v/release/MortezaNedaei/MortezaNedaei?label=Resume&logo=github&style=for-the-badge)](https://docs.google.com/document/d/1aRyDTl1Su6EgNaysuA8b6IdOD4_rSxQwaPcGD8Xwbd8)
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 
@@ -25,19 +47,11 @@ I'm Morteza Nedaei, An Android, iOS Developer and AI Graduated.
   <a href="https://github.com/MortezaNedaei"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaNedaei&layout=compact&theme=chartreuse-dark"></a>
 </p>
 
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-
-<a href="https://linkedin.com/in/morteza-nedaei" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="morteza-nedaei" height="40" width="120" /></a>
-<a href="https://stackoverflow.com/users/12900836/morteza-nedaei?tab=profile" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="12900836" height="40" width="120" /></a>
-<a href="https://medium.com/@nedaei1375" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nedaei1375" height="40" width="120" /></a>
-<a href="https://twitter.com/MortezaNedaei" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
-<a href="https://telegram.me/MortezaNedaei" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
-<a href="mailto:nedaei1375@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
+  <a href="https://github.com/MortezaNedaei"><img title="rc-chuah" src="https://activity-graph.herokuapp.com/graph?username=MortezaNedaei&layout=compact&theme=chartreuse-dark"></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
