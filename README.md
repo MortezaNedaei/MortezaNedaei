@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">😊 I'm Morteza Nedaei</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">😊 I'm Morteza Nedaei</h1>
 
 <div align="center">
   <img src ="https://c0.wallpaperflare.com/preview/944/356/969/concept-construction-page-site.jpg" width="1400px" />
