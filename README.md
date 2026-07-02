@@ -1,178 +1,249 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">😊 I'm Morteza Nedaei</h1>
+<h1 align="center">Morteza Nedaei</h1>
 
-<div align="center">
-  <img src ="https://c0.wallpaperflare.com/preview/944/356/969/concept-construction-page-site.jpg" width="1400px" />
-</div>
+<p align="center">
+  <strong>Software Engineer · AI Master's · Pianist</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mortezanedaei/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@nedaei/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@mortezanedaei"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://soundcloud.com/mortezanedaei"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white" /></a>
+  <a href="https://www.instagram.com/morteza.nedaei/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/MortezaNedaei"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://virgool.io/@mortezanedaei"><img src="https://img.shields.io/badge/Virgool-1E88E5?style=flat-square&logo=hashnode&logoColor=white" /></a>
+  <a href="https://t.me/ViibeStories"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:nedaei1375@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/12900836/morteza-nedaei"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MortezaNedaei&style=flat-square&color=119721" />
+  <img src="https://img.shields.io/github/followers/MortezaNedaei?style=flat-square&color=fb5050" />
+</p>
+
+---
+
+# 🎹 Piano
+
+> Engineering systems by day, composing melodies by night. Sharing covers and original piano pieces on my channels.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtube.com/shorts/cDjvL5J3umE?si=s_SHnPyRnOOU9aN1">
+        <img src="images/mardom.png" width="200" height="200" style="object-fit:cover" alt="Mardom – Moein" />
+      </a><br/>
+      <sub><b>Mardom — Moein</b></sub><br/>
+      <a href="https://soundcloud.com/mortezanedaei/mardom-moein-solo-piano"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud" /></a>
+      <a href="https://youtube.com/shorts/cDjvL5J3umE?si=s_SHnPyRnOOU9aN1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+      <a href="https://www.instagram.com/morteza.nedaei/reel/DZfZXvlNJmRbEm76oenoWhXm4SKURnyVKOlDPU0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/paTEsWbJe34">
+        <img src="images/booye-eydi.png" width="200" height="200" style="object-fit:cover" alt="Booye Eydi – Farhad" />
+      </a><br/>
+      <sub><b>Booye Eydi — Farhad</b></sub><br/>
+      <a href="https://soundcloud.com/mortezanedaei/booye-eydi-piano-cover"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud" /></a>
+      <a href="https://youtu.be/paTEsWbJe34"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+      <a href="https://www.instagram.com/morteza.nedaei/reel/DHZMaHmoja1Dxb9jD9tKF2RBed_CishS3eNiB40/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    </td>
+    <td align="center">
+      <a href="https://youtube.com/shorts/SUgisvGwwW8">
+        <img src="images/passacaglia.png" width="200" height="200" style="object-fit:cover" alt="Passacaglia – Handel / Halvorsen" />
+      </a><br/>
+      <sub><b>Passacaglia</b></sub><br/>
+      <a href="https://soundcloud.com/mortezanedaei/passacaglia-g-f-handel-j"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud" /></a>
+      <a href="https://youtube.com/shorts/SUgisvGwwW8"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtube.com/shorts/lNVs5ksLFR0?si=-wdlo4bCV4Nm8Shy">
+        <img src="images/sogand.png" width="200" height="200" style="object-fit:cover" alt="Sogand Be Asheghane Iran" />
+      </a><br/>
+      <sub><b>Sogand Be Asheghane Iran</b></sub><br/>
+      <a href="https://soundcloud.com/mortezanedaei/sogand-be-asheghane-iran"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud" /></a>
+      <a href="https://youtube.com/shorts/lNVs5ksLFR0?si=-wdlo4bCV4Nm8Shy"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+      <a href="https://www.instagram.com/morteza.nedaei/reel/DUI43FNjXU4wGQlSoHtpdYV9bZC2ZL2uzAQcc40/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/shorts/QQZO2cCtX0Y">
+        <img src="images/corazon-de-nino.png" width="200" height="200" style="object-fit:cover" alt="Corazón De Niño – Raúl Di Blasio" />
+      </a><br/>
+      <sub><b>Corazón De Niño (Child’s Heart)</b></sub><br/>
+      <a href="https://www.youtube.com/shorts/QQZO2cCtX0Y"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+      <a href="https://www.instagram.com/morteza.nedaei/reel/CyoJgHLt4R4HFoMEPT_fDpbZRdmq0E9Q6VEObU0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+# 👨‍💻 About
+
+Software Engineer with a Master's in Artificial Intelligence, architecting mobile, backend and frontend systems in cross-functional teams.
+
+**Tech Stack**
+
+| Domain            | Technologies |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Backend           | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| Mobile            | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Cordova](https://img.shields.io/badge/Cordova-4CC2E4?style=flat-square&logo=apache-cordova&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-000000?style=flat-square&logo=unreal-engine&logoColor=white) ![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| Frontend          | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
+| Data Science & AI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-blue?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square) ![LangChain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97%20LangChain-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| CI/CD             | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-FF543E?style=flat-square&logo=argo&logoColor=white) |
+| Agile             | ![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat-square) ![Kanban](https://img.shields.io/badge/Kanban-000000?style=flat-square) |
+| Tools             | ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97756?style=flat-square&logo=claude&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-660066?style=flat-square&logo=appium&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-000000?style=flat-square) |
+
+---
+
+# 💼 Experience
+
+**Senior Software Engineer / Technical Lead** @ [Tapsell](https://ir.linkedin.com/company/tapsell)  
+Technical Lead architecting and publishing cross-platform Android SDKs and optimizing backend microservices.  
+<a href="https://github.com/tapsellorg/TapsellMediation-AndroidSample"><img src="https://img.shields.io/badge/Sample_App-000000?style=flat-square&logo=github&logoColor=white" alt="Sample App" /></a>
+<a href="https://developer.tapsell.ir/"><img src="https://img.shields.io/badge/Developer_Docs-000000?style=flat-square&logo=readthedocs&logoColor=white" alt="Developer Docs" /></a>
+<a href="https://central.sonatype.com/search?q=tapsell"><img src="https://img.shields.io/badge/Maven_Central-002E5D?style=flat-square&logo=sonatype&logoColor=white" alt="Maven Central" /></a>
+<a href="https://www.npmjs.com/package/@react-native-tapsell-mediation/tapsell"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+<a href="https://pub.dev/packages/tapsell_mediation"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev" /></a>
+
+<details>
+  <summary><b>Key Achievements & Responsibilities</b></summary>
+  <ul>
+    <li>Published Android SDKs to MavenCentral, NPM, Pub, and GitHub using Java, Kotlin, Flutter, React Native, Cordova, Unity, adopted by over 2,500 developers and companies.</li>
+    <li>Analyzed and monitored SDK performance using Elastic Kibana and Grafana to optimize system efficiency.</li>
+    <li>Optimized Back-End Microservices with Spring Boot, Kafka, Redis, and Kubernetes, enhancing functionality and scalability.</li>
+    <li>Modularized libraries with features that made developing and implementing the SDK 50% faster.</li>
+    <li>Automated SDK release pipelines, reducing publishing time by 50%.</li>
+    <li>Performed improvements as a Technical Support Engineer, which led to the reduction of user inquiries and reported issues on GitHub by 30%.</li>
+    <li>Deployed developer docs using Dokka, MK-Docs, and Docusaurus, reducing documentation time by 50%.</li>
+    <li>Enhanced testing pipelines by integrating tools like Konsist, Junit, Jacoco, Kover, Ktlint, and Detekt, achieving 70% test coverage and ensuring code consistency, quality, and maintainability.</li>
+    <li>Introduced “Automated UI Smock Testing In 5 Minutes” with Appium & Maestro to improve the QA testing.</li>
+  </ul>
+</details>
 
 <br/>
 
-## 👨🏻‍💻 About Me:
+**Senior Software Engineer** @ [COTO](https://www.linkedin.com/company/cotobyeveworld)  
+Contributed to a Web3 social community platform app written in Kotlin and Jetpack Compose with **1M+ Users**.  
+<a href="https://play.google.com/store/apps/details?id=world.eve.coto"><img src="https://img.shields.io/badge/Google_Play-000000?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" /></a>
+<a href="https://apps.apple.com/in/app/coto/id1639803523"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 
-<img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112b5cd40895e87b8b139efadc39a8f4d6ab86ecbb&rid=giphy.gif&ct=g" height="290px" />
+<details>
+  <summary><b>Key Achievements & Responsibilities</b></summary>
+  <ul>
+    <li>Engaged in a Web3 social community platform app, installed by +1 million users from Google Play and App Store, written in Kotlin and Jetpack Compose.</li>
+    <li>Collaborated remotely with 15 multinational Android developers as part of a global team.</li>
+    <li>Improved Google Play's crash-free rate by 35% through targeted bug fixes and performance optimizations.</li>
+  </ul>
+</details>
 
-Experienced Software Developer with a demonstrated history of working in the mobile industry. Skilled in Kotlin, Java, Android Development, and have Experience in React, Nodejs, Nestjs, Swift, iOS, React Native, Flutter Development. Strong engineering professional with a Master's degree focused in AI Engineering.
+<br/>
 
-- 💻 I’m currently working on projects in AI, Android, iOS fields
-- 🌱 I’m currently learning GoLang, NodeJs, React Native, Kotlin, Swift, Flutter 
-- 💬 Ask me about everything you liked, I'm glad to be able to help
-- 👯 I’m looking to collaborate on international companies
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/morteza-nedaei)
-- [My Gists](https://www.gist.github.com/MortezaNedaei)
-- [My LeetCode](https://www.leetcode.com/mortezanedaei)
-- ⚡ Fun fact: "The best line of code is the one you don't write"!
+**Senior Mobile Engineer** @ [IranAirTour Airlines](https://www.linkedin.com/company/iranairtour)  
+Released React Native enterprise mobile applications for pilots and crew members in a trusted airline.  
+<a href="https://apps.apple.com/us/app/iat-app/id6483305397"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a>
 
+<details>
+  <summary><b>Key Achievements & Responsibilities</b></summary>
+  <ul>
+    <li>Participated with a cross-platform team in one of the 5 most experienced and trusted airlines.</li>
+    <li>Released several apps to the App Store, installed by over 500 pilots and crew members.</li>
+    <li>Implemented enterprise applications that increased the company's revenue by 5% with a reduction of traditional procedures through modern solutions like React Native, Typescript, Multithreading, redux-toolkit, redux-saga, Axios, offline DB, Formik, etc.</li>
+  </ul>
+</details>
 
-<h3 align="left"> 🛠️ Languages and Tools:</h3>
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"/> 
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25px"/>  
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="25px"/>  
-<img alt="NestJs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="25px"/>  
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25px"/>  
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" height="25px"/>  
-<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="25px"/>    
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25px"/>  
-<img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="25px"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="25px"/>      
-<img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"/>
-<img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"  height="25px"/>  
-<img alt="GraphQl" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="25px"/>
-<img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" height="25px"/>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"  height="25px"/>  
-<img alt="Junit5" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="25px"/>
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="25px"/>
-<img alt="Redis" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" height="25px"/> 
-<img alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25px"/>    
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/> 
-<img alt="Realm" src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" height="25px"/>
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25px"/>  
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>   
-<img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" height="25px"/> 
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25px"/>  
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" height="25px"/>     
-<img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" height="25px"/> 
-<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="25px"/>
-<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" height="25px"/>
-<img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" height="25px"/> 
-<img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="25px"/>   
-<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" height="25px"/>
-<img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="25px"/>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="25px"/> 
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="25px"/>
-<img alt="Storybook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="25px"/>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25px"/>   
-<img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25px"/> 
-<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="25px"/>
-<img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="25px"/>
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" height="25px"/>  
-<img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl" height="25px"/>
-<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="25px"/>
-<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>
-<img alt="CLion" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" height="25px"/>
-<img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25px"/>
-<img alt="Gitpod" src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" height="25px"/>
-<img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25px"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25px"/>
-<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25px"/>
-<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" height="25px"/>
-<img alt="Rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" height="25px"/>
-<img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" height="25px"/>
-<img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="25px"/>   
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="25px"/> 
-<img alt="Apple Silicon" src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" height="25px"/>   
-<img alt="Circleci" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" height="25px"/>
-<img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" height="25px"/>  
-<img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
-<img alt="Redux Saga" src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999" height="25px"/>  
-<img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
-<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" height="25px"/> 
-<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<br/>
+
+**Android Software Engineer** @ [Tivasoft](https://www.linkedin.com/company/tivasoft)  
+Developed educational and retail apps featuring AR/VR technologies.  
+
+<details>
+  <summary><b>Key Achievements & Responsibilities</b></summary>
+  <ul>
+    <li>Built the Mahout Android app to make the educational system better in the Chinese market.</li>
+    <li>Made the CarpetCity Android app that uses Augmented Reality (AR) and Virtual Reality (VR), which reduced the need for customers to visit by 15%.</li>
+  </ul>
+</details>
+
+<br/>
+
+**Android Developer Intern** @ [TCI](https://www.linkedin.com/company/telecommunication-company-of-iran---tci)  
+Designed network analysis applications in Java.  
+
+<details>
+  <summary><b>Key Achievements & Responsibilities</b></summary>
+  <ul>
+    <li>Designed a Java Network-based Application that provided network features like finding IPs, Device Hardware Info, Doing Ping tests, Traceroute, etc.</li>
+  </ul>
+</details>
+
+---
+
+# 🎙️ Talks & Workshops
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SAVRGpgIgXE&t=1849s">
+    <img src="images/tapsell-workshop.png" width="600" alt="Kotlin Coroutines Flow & Channels Workshop at Tapsell" />
+  </a>
+  <br />
+  <sub><b>Kotlin Coroutines Flow & Channels Workshop at Tapsell</b></sub><br/>
+  <a href="https://www.youtube.com/watch?v=SAVRGpgIgXE&t=1849s"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-## ❤️ Connect with me:
-  
-<p align="left">
-<a href="https://morteza-nedaei.herokuapp.com" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="morteza-nedaei" height="40" /></a>  
-<a href="https://linkedin.com/in/morteza-nedaei" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="morteza-nedaei" height="40" width="120" /></a> 
-<a href="https://stackoverflow.com/users/12900836/morteza-nedaei?tab=profile" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="12900836" height="40" width="120" /></a>
-</p>  
-  
-<p align="left">  
-<a href="https://medium.com/@nedaei1375" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="nedaei1375" height="40" width="120" /></a>  
-<a href="https://twitter.com/MortezaNedaei" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
-<a href="https://mortezanedaei.hashnode.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a> 
+---
+
+# 🚀 Projects
+
+**MeowJumper** - Kotlin Multiplatform mobile game  
+<a href="https://play.google.com/store/apps/details?id=com.meow.jumper"><img src="https://img.shields.io/badge/Google_Play-000000?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" /></a>
+
+---
+
+# 📝 Articles
+
+**How to get Military Service Project?**  
+<a href="https://medium.com/@nedaei/%D9%86%D8%AD%D9%88%D9%87-%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%D8%AE%D8%AF%D9%85%D8%AA-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A8%D9%86%DB%8C%D8%A7%D9%86-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%DA%AF%D8%A7%D9%85-%D8%A8%D9%87-%DA%AF%D8%A7%D9%85-ee183e9f7a8e"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+
+---
+
+# 📜 Licenses & Certifications
+
+<table>
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <a href="https://www.coursera.org/account/accomplishments/verify/JL5ZAXS2JDMV">
+        <img src="images/coursera.jpeg" width="180" alt="Neural Networks and Deep Learning - Coursera Certificate" style="border-radius: 4px;" />
+      </a>
+    </td>
+    <td valign="middle">
+      <strong>Neural Networks and Deep Learning</strong><br/>
+      <sub>Coursera Course Certificate (Mar 2019)</sub><br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/verify/JL5ZAXS2JDMV"><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MortezaNedaei&theme=chartreuse-dark&hide_border=true" />
 </p>
 
-<p align="left">
-<a href="https://discordapp.com/users/MortezaNedaei#6645" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a> 
-<a href="https://telegram.me/MortezaNedaei" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
-<a href="mailto:nedaei1375@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MortezaNedaei" height="40" width="120" /></a>
+---
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/1w2y5Gx8IXQdmnG0rG37kZeUiwGRDIl4CC9WXn3G-314/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-4CAF50?style=flat-square&logo=google-drive&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.buymeacoffee.com/MortezaNedaei">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
 
-## 📈 My Github Summery
-
-<p align="left">
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=MortezaNedaei&style=flat-square&color=119721">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/MortezaNedaei?style=flat-square&color=fb5050">
-<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-pink">
-<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-1abedb.svg?style=flat&logo=github">
-</p>
-
-[![GitHub release](https://img.shields.io/github/v/release/MortezaNedaei/MortezaNedaei?label=Resume&logo=github&style=for-the-badge)](https://docs.google.com/document/d/1aRyDTl1Su6EgNaysuA8b6IdOD4_rSxQwaPcGD8Xwbd8)
-
-![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MortezaNedaei" alt="MortezaNedaei" /></a> </p>
-
-<img alt="Morteza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MortezaNedaei&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MortezaNedaei&theme=chartreuse-dark" alt="MortezaNedaei" /></p>
-</p>
-
-<p align="left">
-  <a href="https://github.com/MortezaNedaei"><img title="rc-chuah" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaNedaei&layout=compact&theme=chartreuse-dark"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/MortezaNedaei"><img title="rc-chuah" src="https://activity-graph.herokuapp.com/graph?username=MortezaNedaei&layout=compact&theme=chartreuse-dark"></a>
-</p>
-
- 
-## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/MortezaNedaei" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-  
-
-<!--
-**MortezaNedaei/MortezaNedaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-icons: 
-list of badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png
--->
+<p align="center"><sub>⚡ "The best line of code is the one you don't write."</sub></p>
